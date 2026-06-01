@@ -4,5 +4,26 @@
     "navLabel": "Blog",
     "basePath": "/blog"
   },
-  "posts": []
+  "posts": [
+    {
+      "slug": "untitled-post",
+      "title": "Untitled post",
+      "excerpt": "",
+      "contentHtml": "<p>test</p>\n",
+      "heroImageUrl": null,
+      "author": "",
+      "tags": [],
+      "categories": [],
+      "publishAt": "2026-06-01T18:34:46.429Z",
+      "updatedAt": "2026-06-01T18:34:46.429Z",
+      "readingTimeMinutes": 1,
+      "wordCount": 1,
+      "seo": {
+        "metaTitle": "",
+        "metaDescription": "",
+        "canonicalUrl": "",
+        "ogImageUrl": ""
+      }
+    }
+  ]
 }
