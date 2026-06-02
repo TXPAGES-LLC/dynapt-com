@@ -6,6 +6,26 @@
   },
   "posts": [
     {
+      "slug": "this-is-just-a-test",
+      "title": "this is just a test",
+      "excerpt": "",
+      "contentHtml": "<p>another test</p>\n",
+      "heroImageUrl": null,
+      "author": "",
+      "tags": [],
+      "categories": [],
+      "publishAt": "2026-06-02T15:00:33.358Z",
+      "updatedAt": "2026-06-02T15:00:33.358Z",
+      "readingTimeMinutes": 1,
+      "wordCount": 2,
+      "seo": {
+        "metaTitle": "",
+        "metaDescription": "",
+        "canonicalUrl": "",
+        "ogImageUrl": ""
+      }
+    },
+    {
       "slug": "untitled-post",
       "title": "Untitled post",
       "excerpt": "",
